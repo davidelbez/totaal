@@ -124,3 +124,6 @@ Totaal is transparent by design, so you can check every point below in the sourc
   - **watermark**: the date up to which a source was swept;
   - **DESC**: Describe, Express, Specify, Consequences;
   - **tool ladder**: connector, API, browser, human.
+
+## Privacy
+Totaal collects nothing for its authors. Read the [Privacy policy](https://github.com/davidelbez/totaal/blob/main/PRIVACY.md) for what it reads, stores and sends.
