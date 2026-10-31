@@ -1,0 +1,12 @@
+{
+  "area": "finance",
+  "title": "Finance",
+  "roles": "finance, accounting, founders",
+  "description": "{{ORG}} finance plugin \u2014 payment reminders, monthly close and cash position, with numbers always read live from the accounting tool.",
+  "connectors": "accounting, email, shared drive, CRM, e-signature",
+  "skills": [
+    "payment-reminder",
+    "monthly-close",
+    "cash-position"
+  ]
+}

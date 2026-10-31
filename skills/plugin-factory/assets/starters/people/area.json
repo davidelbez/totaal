@@ -1,0 +1,11 @@
+{
+  "area": "people",
+  "title": "People",
+  "roles": "HR, people, managers who hire",
+  "description": "{{ORG}} people plugin \u2014 job posts and interview loops; onboarding and departures are run by Totaal.",
+  "connectors": "email, calendar, chat, HR tool, shared drive",
+  "skills": [
+    "job-post",
+    "interview-loop"
+  ]
+}

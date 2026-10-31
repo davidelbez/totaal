@@ -1,0 +1,12 @@
+{
+  "area": "accounts",
+  "title": "Account management",
+  "roles": "account managers, customer success",
+  "description": "{{ORG}} account management plugin \u2014 client reports, renewal preparation and client kickoffs, from the account journals and the numbers.",
+  "connectors": "email, calendar, CRM, meeting recorder, ticketing, BI",
+  "skills": [
+    "client-report",
+    "renewal-prep",
+    "client-kickoff"
+  ]
+}

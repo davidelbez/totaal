@@ -1,0 +1,8 @@
+.DS_Store
+.obsidian/workspace*.json
+.obsidian/graph.json
+.obsidian/cache
+__pycache__/
+*.pyc
+wiki/plugins/*/skills/
+.wiki-run-branch

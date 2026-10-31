@@ -1,0 +1,16 @@
+{
+  "name": "totaal",
+  "owner": {
+    "name": "Totaal"
+  },
+  "plugins": [
+    {
+      "name": "totaal",
+      "source": "./",
+      "description": "The only external plugin a small team needs: it builds your company's own plugins, personalised for each employee, from a shared wiki Claude keeps up to date."
+    }
+  ],
+  "metadata": {
+    "description": "Totaal: one external plugin that builds your company's own Claude plugins, for every role in a team under 100 people."
+  }
+}

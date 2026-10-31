@@ -1,0 +1,12 @@
+{
+  "area": "operations",
+  "title": "Operations",
+  "roles": "operations, office, administration",
+  "description": "{{ORG}} operations plugin \u2014 filing incoming documents, supplier follow-up and the monthly admin checklist.",
+  "connectors": "email, calendar, shared drive, task tracker, e-signature",
+  "skills": [
+    "file-document",
+    "supplier-follow-up",
+    "monthly-admin"
+  ]
+}

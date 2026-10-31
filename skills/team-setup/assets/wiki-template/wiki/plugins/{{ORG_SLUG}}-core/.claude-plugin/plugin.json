@@ -1,0 +1,6 @@
+{
+  "name": "{{ORG_SLUG}}-core",
+  "version": "0.1.0",
+  "description": "{{ORG}} core plugin — company context, hard rules, tools and writing style shared by every employee. All {{ORG}} area plugins depend on it.",
+  "author": { "name": "{{ORG}}" }
+}

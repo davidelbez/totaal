@@ -1,0 +1,12 @@
+{
+  "area": "marketing",
+  "title": "Marketing",
+  "roles": "marketing, communications",
+  "description": "{{ORG}} marketing plugin \u2014 campaign briefs, newsletters and customer stories, consistent with the company's hard rules.",
+  "connectors": "email marketing, CMS or social tools, analytics, shared drive",
+  "skills": [
+    "campaign-brief",
+    "newsletter",
+    "customer-story"
+  ]
+}

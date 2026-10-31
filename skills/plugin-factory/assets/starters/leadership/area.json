@@ -1,0 +1,12 @@
+{
+  "area": "leadership",
+  "title": "Leadership",
+  "roles": "founder, CEO, team leads",
+  "description": "{{ORG}} leadership plugin \u2014 weekly company update, decision memos and board or investor updates, built from the company wiki and tools.",
+  "connectors": "email, calendar, chat, CRM, shared drive, BI",
+  "skills": [
+    "weekly-company-update",
+    "decision-memo",
+    "board-update"
+  ]
+}

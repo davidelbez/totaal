@@ -1,0 +1,12 @@
+{
+  "area": "product",
+  "title": "Product",
+  "roles": "product, engineering, design",
+  "description": "{{ORG}} product plugin \u2014 feature specs, release notes for the whole team and incident reviews, fed by the product-feedback register.",
+  "connectors": "issue tracker, code host, error tracking, product analytics, ticketing",
+  "skills": [
+    "feature-spec",
+    "release-notes",
+    "incident-review"
+  ]
+}

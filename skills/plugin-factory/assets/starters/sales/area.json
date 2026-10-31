@@ -1,0 +1,12 @@
+{
+  "area": "sales",
+  "title": "Sales",
+  "roles": "sales, business development",
+  "description": "{{ORG}} sales plugin \u2014 call prep, follow-ups after meetings and proposals, from the account folders and past deals.",
+  "connectors": "email, calendar, CRM, meeting recorder, e-signature",
+  "skills": [
+    "call-prep",
+    "meeting-follow-up",
+    "proposal"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "totaal",
+  "version": "0.5.0",
+  "description": "Totaal: the only external plugin a company of under 100 people installs. It builds the company's own plugins — base plugins chosen for its business, then a personal version for each employee — and keeps them improving from daily use, so one person's knowledge and another's expertise become everyone's. For the whole team, not only developers: a shared company wiki, cloud routines that run without supervision, and onboarding that gets newcomers productive in days.",
+  "author": {
+    "name": "Totaal"
+  },
+  "homepage": "https://github.com/davidelbez/totaal",
+  "repository": "https://github.com/davidelbez/totaal",
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
+  "keywords": [
+    "plugin-factory",
+    "whole-team",
+    "onboarding",
+    "knowledge-base",
+    "routines",
+    "personalisation",
+    "operations",
+    "sales",
+    "customer-success",
+    "finance",
+    "hr",
+    "small-business"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "area": "support",
+  "title": "Support",
+  "roles": "support, customer care",
+  "description": "{{ORG}} support plugin \u2014 reply drafts in the team's tone and bug reports to the product team, from the ticket history.",
+  "connectors": "ticketing, email, chat, the product's admin (read-only)",
+  "skills": [
+    "support-reply",
+    "bug-report"
+  ]
+}
